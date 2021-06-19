@@ -100,4 +100,4 @@ def game():
 
 if __name__ == "__main__":
     game()
-print('Sumber : https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874')
+print('konsep by : https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874')
